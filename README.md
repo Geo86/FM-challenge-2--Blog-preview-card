@@ -16,9 +16,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](screenshot.png)
+![](preview.jpg)
 
-- Live Site URL: [Add live site URL here](https://geo86.github.io/FM-challenge-2--Blog-preview-card/)
+- Live Site URL: [Live project here](https://geo86.github.io/FM-challenge-2--Blog-preview-card/)
 
 ## My process
 
